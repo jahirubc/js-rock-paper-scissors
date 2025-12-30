@@ -50,7 +50,7 @@ console.log(`Human: ${humanScore} | Computer: ${computerScore}`);
 if (humanScore > computerScore) {
     console.log("You won the game!");
 } else if (computerScore > humanScore) {
-    console.log("💻 Computer won the game!");
+    console.log("Computer won the game!");
 } else {
     console.log("The game is a tie!");
 }
